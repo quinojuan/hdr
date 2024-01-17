@@ -51,6 +51,10 @@
   flex-grow: 1;
 }
 
+.menu-item-price {
+  color: red;
+}
+
 .menu-item-heading {
   display: flex;
   justify-content: space-between;
